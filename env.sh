@@ -1,0 +1,4 @@
+#!/bin/bash
+export ENV TODOAPI_MESSAGEBROKER_HOSTNAME="todoapi-messagebroker"
+export ENV TODOAPI_MESSAGEBROKER_USERNAME="admin"
+export ENV TODOAPI_MESSAGEBROKER_PASSWORD="mypass"
